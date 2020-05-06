@@ -74,7 +74,7 @@ namespace ProyectoTendencias
 
             var rand2 = new Random();            List<int> listNumbers2 = new List<int>();            int number2;
 
-            for (int i = 0; i < listaTemas.Length; i++)            {                for (int j = 0; j < quantityofGroups; j++)u
+            for (int i = 0; i < listaTemas.Length; i++)            {                for (int j = 0; j < quantityofGroups; j++)
                 {
                     do
                     {
